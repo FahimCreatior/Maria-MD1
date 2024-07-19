@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
+global.ownernomer = "254797992027"
+global.ownername = "FAHEEM"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Kenyan"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
+global.ownernumber = '254797992027'  //creator number
+global.ownername = 'FAHEEM' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
@@ -30,7 +30,7 @@ global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
-global.autoread = true //auto read messages
+global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
 global.autoread_status = true //auto view status/story
